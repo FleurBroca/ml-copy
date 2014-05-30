@@ -12,6 +12,10 @@ body{
 	color: rgb(230,54,69);
 }
 
+.blue{
+	color: rgb(13,11,56);
+}
+
 a:hover{
 	text-decoration: none;
 }
