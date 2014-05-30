@@ -1,13 +1,23 @@
 body{
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Playfair Display', serif;
 	color: rgb(25,28,41);
+	background-color: white;
 }
 
-a hover{ 
-text decoration: none;
+.container{
+	min-height: 300px;
+	} 
+
+.rose{
+	color: rgb(230,54,69);
+}
+
+a:hover{
+	text-decoration: none;
 }
 
 .navbar-header{
+	font-family: 'Playfair Display', serif;
 	color: rgb(25,28,41);
 	font-size: 11px;
 }
@@ -15,4 +25,10 @@ text decoration: none;
 h1{
 	color: grey;	
 }
+
+#footer{
+	padding: 20px;
+	margin: 100px;
+}
+
 
